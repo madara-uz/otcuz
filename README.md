@@ -1,2 +1,2 @@
 # otcuz
-#fix deploy.
+#fix deploy
